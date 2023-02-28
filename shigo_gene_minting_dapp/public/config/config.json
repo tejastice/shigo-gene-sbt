@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF40B176ce02Ec2d4d6dbC57D4C143cB7D4774D72",
+  "SCAN_LINK": "https://etherscan.io/token/0xF40B176ce02Ec2d4d6dbC57D4C143cB7D4774D72",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "LLAC NFT Seminar",
+  "SYMBOL": "LNS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/account?tab=collected",
+  "SHOW_BACKGROUND": true
+}
